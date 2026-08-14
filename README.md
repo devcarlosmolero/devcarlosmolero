@@ -24,4 +24,3 @@ Only a handful get mirrored to GitHub, and only when there is real collaboration
 | Project                                                                                            | Description                                                                             |
 | :------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | **[marceline](https://git.carlosmolero.com/marceline/)**                                           | Mastodon bot that turns YouTube links into tagged songs in Navidrome.                   |
-| **[penpot-sequential-pdf-exporter](https://git.carlosmolero.com/penpot-sequential-pdf-exporter/)** | Penpot plugin that exports the selected boards, in order, as the pages of a single PDF. |
